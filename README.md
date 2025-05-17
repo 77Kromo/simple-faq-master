@@ -1,12 +1,14 @@
 
 # Simple FAQ Page
 
+
+
+## Overview
+
+![Screenshot](./resources/screenshot.png)
 ## Project Description
 
 This is a simple, responsive Frequently Asked Questions (FAQ) webpage built using HTML and CSS. It was developed as part of a challenge on [devChallenges.io](https://www.devchallenges.io). The page displays common questions and answers related to order tracking and return policies.
-
-
-
 ## Features
 
 * Clean and modern design
